@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on a complete end-to-end Data Science project, Stress Detection  <br>🏫 I'm a junior @UIT-VNU<br>🤝 I’m looking for internship program <br>🌱 I’m currently learning Deep Learning, Natural Language Processing, Big Data, MLops<br>
+
+🔭 Currently working on a **complete end-to-end Data Science project**: *Stress Detection*  
+🏫 Junior student at **UIT – VNUHCM**  
+🤝 Seeking opportunities for an **internship program** in Data Science / Machine Learning  
+🌱 Expanding expertise in **Deep Learning, Natural Language Processing, Big Data, and MLOps**  
+
 
 
 ## 🌐 Socials:
