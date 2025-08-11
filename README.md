@@ -3,7 +3,7 @@
 🔭 Currently working on a **complete end-to-end Data Science project**: *Stress Detection*  
 🏫 Junior student at **UIT – VNUHCM**  
 🤝 Seeking opportunities for an **internship program** in Data Science / Machine Learning  
-🌱 Expanding expertise in **Deep Learning, Natural Language Processing, Big Data, and MLOps**  
+🌱 Expanding expertise in **Deep Learning, Natural Language Processing, Big Data, MLOps, Analytic Skill, Cloud Architecture, Domain Knowledge**  
 
 
 
